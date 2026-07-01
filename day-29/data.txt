@@ -1,0 +1,6 @@
+WEBSITE_NAME | EMAIL/USERNAME | PASWWORD
+Facebook | sharma@gmail.com | 123456789
+Instagram | sharma@gmail.com | 987654321
+Whatsapp | sharma@gmail.com | 45678
+Reddit | sharma@gmail.com | ndjhbv
+Youtube | sharma@gmail.com | jNV6DBz$c6*3j4g
